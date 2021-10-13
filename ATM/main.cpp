@@ -1,11 +1,3 @@
-/*
-Realizzare un programma che permetta di simulare la gestione di un ATM (Automated Teller Machine).
-L'ATM ha una disponibilità iniziale di: 6000€;
-L'utente può effettuare sia prelievi che versamenti;
-Il limite giornaliero di prelievo è di: 250€;
-Per ogni transazione è necessario indicare il PIN.
-*/
-
 #ifdef _WIN32
 #include <Windows.h>
 #else
